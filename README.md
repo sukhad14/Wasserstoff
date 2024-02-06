@@ -1,8 +1,9 @@
 #WASSERSTOFF FRONTEND DEV ASSIGNMENT
 
 ### Problem Statement: [https://www.figma.com/file/ppNMpYAmwAxgSTvbr1wLmC/Wasseerstoff-Front-end-Developer-Task?type=design&mode=design]
-
-
+### Hosted Website link: [https://wasserstoffreact.netlify.app]
+### git repo link: [https://github.com/sukhad14/wasserstoff.git]
+### Video demonstration link: [https://drive.google.com/file/d/17BYvlT0K-F-kKCPz5bnRMZ4MG-cYHMO6/view?usp=drive_link]
 
 ## Technical Stack/Libraries Used:
 
@@ -25,7 +26,7 @@
 
       Download Nodes: [https://nodejs.org/en]
 
-  2. Clone the repository using command:
+  2. Clone the repository from https://github.com/sukhad14/wasserstoff.git using command:
 
       ## #git clone 
 
@@ -42,10 +43,6 @@
        ## #npm start
 
   7. Wait for localhost get hosted. [Default localhost port is 3000] 
-
-
-## Demo Link : 
-
 
 
 ## Approach I tried and went while developing the project:
