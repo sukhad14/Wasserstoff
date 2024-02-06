@@ -23,7 +23,7 @@ function Overview() {
         <div>
           {/* Sales Overview Section */}
           <div className={styles.salesOverview}>
-            <h2>WSTF-FRONT-END-HAKATHON</h2>
+            <h2>WSTF-FRONT-END-HACKATHON</h2>
             
             {/* User Count Section */}
             <div className={styles.userCount}>
