@@ -2,7 +2,7 @@
 
 ### Problem Statement: [https://www.figma.com/file/ppNMpYAmwAxgSTvbr1wLmC/Wasseerstoff-Front-end-Developer-Task?type=design&mode=design]
 ### Hosted Website link: [https://wasserstoffreact.netlify.app]
-### git repo link: [https://github.com/sukhad14/wasserstoff.git]
+### git repo link: [https://github.com/sukhad14/wasserstoff]
 ### Video demonstration link: [https://drive.google.com/file/d/17BYvlT0K-F-kKCPz5bnRMZ4MG-cYHMO6/view?usp=drive_link]
 
 ## Technical Stack/Libraries Used:
